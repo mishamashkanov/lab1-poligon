@@ -9,3 +9,5 @@
 *.log
 *.tmp
 .DS_Store
+_r
+_r.pub
