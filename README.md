@@ -6,3 +6,6 @@
 - [Introduction to Git](URL)
 - [Working with the Terminal](URL)
 
+Ответы на контрольные вопросы находятся в отдельном файле:
+
+ **[control-questions.md](control-questions.md)**
