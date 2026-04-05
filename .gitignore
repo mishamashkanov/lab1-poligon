@@ -1,0 +1,11 @@
+*.o
+*.out
+*.exe
+*.log
+*.tmp
+*.o
+*.out
+*.exe
+*.log
+*.tmp
+.DS_Store
